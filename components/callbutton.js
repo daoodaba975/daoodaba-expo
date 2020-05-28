@@ -20,7 +20,6 @@ const styles = StyleSheet.create ({
     apl: {
         fontSize: 18,
         color: '#ccc',
-        fontWeight: 'bold',
-        fontFamily: 'adventpro-bold'
+        fontWeight: 'bold'
     }
 })
