@@ -5,7 +5,7 @@ export default function About(){
     return(
         <View>
             <Text style={styles.abt1}>Daouda BA</Text>
-            <Text style={styles.abt2}>Développeur Web/mobile</Text>
+            <Text style={styles.abt2}>Développeur web/mobile</Text>
         </View>
     )
 }

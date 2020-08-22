@@ -3,7 +3,7 @@ import { Image, StyleSheet } from 'react-native';
 
 export default function Avatar(){
     return(
-        <Image source={require('../assets/daooda.jpg')} style={styles.img} />
+        <Image source={require('../assets/avatar.jpg')} style={styles.img} />
     )
 }
 
